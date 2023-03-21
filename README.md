@@ -11,13 +11,13 @@ Paradigmas:
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. !!**
 
-**!! *Exemplo de título correto: 2022.2_G1_Logico_ProjetoRoteirosAereos*. !!**
+**!! *Exemplo de título correto: 2023.1_G1_Logico_ProjetoRoteirosAereos*. !!**
  
  (Apague esses comentários)
 
 # NomeDoProjeto
 
-**Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
+**Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T02 <br>
 **Nro do Grupo (de acordo com a Planilha de Divisão dos Grupos)**: XX<br>
 **Paradigma**: XXXXXXXXXX<br>
 
